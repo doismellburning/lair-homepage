@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+    margin: 30px 30px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
